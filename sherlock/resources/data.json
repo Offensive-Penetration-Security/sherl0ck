@@ -43,11 +43,11 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Aisebimaikata.com": {
+  "baidu.com": {
     "errorType": "status_code",
     "regexCheck": "^[^.]*$",
-    "url": "https://aisebimaikata.com/{}",
-    "urlMain": "https://www.aisebimaikata.com/",
+    "url": "http://www.baidu.com/{}",
+    "urlMain": "http://www.baidu.com/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
