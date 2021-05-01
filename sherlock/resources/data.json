@@ -35,7 +35,7 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Academia.edu+test": {
+  "Academia.edu": {
     "errorType": "status_code",
     "regexCheck": "^[^.]*$",
     "url": "https://independent.academia.edu/{}",
@@ -81,7 +81,7 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewould"
   },
-  "Asciinema": {
+  "Asciinema+test": {
     "errorType": "status_code",
     "url": "https://asciinema.org/~{}",
     "urlMain": "https://asciinema.org",
