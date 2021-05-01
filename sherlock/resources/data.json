@@ -46,8 +46,8 @@
   "Aisebimaikata.com": {
     "errorType": "status_code",
     "regexCheck": "^[^.]*$",
-    "url": "https://independent.academia.edu/{}",
-    "urlMain": "https://www.academia.edu/",
+    "url": "https://aisebimaikata.com/{}",
+    "urlMain": "https://www.aisebimaikata.com/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
