@@ -35,7 +35,7 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Academia.edu": {
+  "Academia.edu+test": {
     "errorType": "status_code",
     "regexCheck": "^[^.]*$",
     "url": "https://independent.academia.edu/{}",
