@@ -202,6 +202,5 @@ list of sites to ignore (one site name per line).
 ## License
 
 MIT © Sherlock Project<br/>
-Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
-
-## modules++[nu11secur1ty](https://www.nu11secur1ty.com/)
+Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)\n
+modules++ - [nu11secur1ty](https://www.nu11secur1ty.com/)
